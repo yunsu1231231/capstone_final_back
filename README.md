@@ -2,7 +2,11 @@
 
 **운동 어플리케이션 (Fitmotion)**
 
-👉 현재 프로젝트는 [fitmotion-refactor/fitmotion-backend](https://github.com/fitmotion-refactor/fitmotion-backend) 로 리팩토링 진행 중입니다.
+👉 회원-트레이너 매칭 및 실시간 채팅 기능은
+아래 레포지토리에서 리팩토링되었습니다.
+
+https://github.com/yunsu1231231/capstone-final-refactor
+
 
 ---
 
